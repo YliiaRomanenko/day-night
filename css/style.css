@@ -21,3 +21,13 @@ html.light body {
     color: #333;
     background-color: #fff;
 }
+
+/*
+html.dark .page_theme {
+    background: url('') 0 0 / 100% no-repeat;
+}
+html.light .page_theme {
+    background: url('') 0 0 / 100% no-repeat;
+}
+*/
+
