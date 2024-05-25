@@ -30,4 +30,26 @@ html.light .page_theme {
     background: url('') 0 0 / 100% no-repeat;
 }
 */
-
+.page_reset {
+    opacity: 0;
+    visibility: hidden;
+}
+.page_reset.active {
+    opacity: 1;
+    visibility: visible;
+}
+.page_reset::before{
+    content: "x";
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    font-size: 7px;
+    border-radius: 50%;
+    line-height: 10px;
+    color: #fff;
+    text-align: center;
+    border-color: #666;
+}
