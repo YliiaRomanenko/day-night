@@ -59,5 +59,7 @@ html.light .page_theme {
 }
 .page_text p:not(:last-child){
     margin-bottom: 10px;
-    background: #a88;
+}
+.page_header{
+    background: #f9f7f7;git 
 }
