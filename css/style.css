@@ -58,6 +58,6 @@ html.light .page_theme {
 
 }
 .page_text p:not(:last-child){
-    margin-bottom: 10px;
-    background: #a88;
+    margin-bottom: 20px;
+    background: yellow;
 }
