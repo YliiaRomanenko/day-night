@@ -53,3 +53,10 @@ html.light .page_theme {
     text-align: center;
     border-color: #666;
 }
+.page_text {
+    line-height: 150%;
+
+}
+.page_text p:not(:last-child){
+    margin-bottom: 20px;
+}
