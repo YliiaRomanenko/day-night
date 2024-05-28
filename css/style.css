@@ -60,11 +60,3 @@ html.light .page_theme {
 .page_text p:not(:last-child){
     margin-bottom: 10px;
 }
-.page_header {
-    background: #f9f7f7; 
-
-}
-.page_action {
-    background-color: #a09e9e;
-
-}
